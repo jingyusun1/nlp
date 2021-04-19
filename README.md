@@ -13,20 +13,18 @@ matplotlib.pyplot
 
 1. obtaining the raw data (text comment corpus) for analysis, part of which is crawled by itself.
 ##raw data
-
 ##Attention：when obtaining data api interface, cookie network authentication needs to log in first
 
 
 2. carrying out basic processing operations on the acquired data, 
 including data pre-processing, Chinese word separation, deactivation word filtering and other operations.
 ##Word cloud script useing csv file for word frequency analysis
-![2fa320ea97dfd7ca901ef294aa9818f6.png](en-resource://database/514:1)
+
 
 ##Attention：Every time you run out of 分词与去停用词.py script, remember to save the original file, the processed data will overwrite the original data
 
 3. after the text comment data has been processed, multiple means are applied to analyse the comment data in various aspects.
 ##3.1Use the lda model to calculate the topic optimal solution
-![db14625f775c06b750de508447cd587e.png](en-resource://database/510:1)
 ##Attention：Change the number of topics each time when useing lda.py
 
 
