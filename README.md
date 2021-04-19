@@ -13,7 +13,7 @@ matplotlib.pyplot
 
 1. obtaining the raw data (text comment corpus) for analysis, part of which is crawled by itself.
 ##raw data
-![1224bb2d795d7e7259c7ac2bd87183ca.png](en-resource://database/502:1)
+
 ##Attention：when obtaining data api interface, cookie network authentication needs to log in first
 
 
